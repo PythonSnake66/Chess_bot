@@ -4,8 +4,8 @@ A simple chess game with an AI opponent implemented in Python. The AI uses the M
 
 <table>
   <tr>
-    <td><img src="pic1.png" alt="Game Start" width="40%"></td>
-    <td><img src="pic2.png" alt="In-Game Action" width="40%"></td>
+    <td><img src="pic1.png" alt="Game Start" width="100%"></td>
+    <td><img src="pic2.png" alt="In-Game Action" width="100%"></td>
   </tr>
 </table>
 
