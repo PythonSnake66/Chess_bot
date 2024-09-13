@@ -1,6 +1,6 @@
 # Chess Bot
 
-A simple chess game with an AI opponent implemented in Python. The AI uses the Minimax algorithm with alpha-beta pruning to decide its moves. This project demonstrates fundamental concepts in game development, artificial intelligence algorithms, and GUI programming.
+A simple chess game with an AI opponent implemented in Python. The AI uses the Minimax algorithm with alpha-beta pruning to decide its moves.
 
 <table>
   <tr>
