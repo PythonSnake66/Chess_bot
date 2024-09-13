@@ -100,9 +100,8 @@ The evaluation function calculates a score based on the material balance:
 
 ### Limitations
 
-- **Search Depth:** Limited to a few moves ahead due to computational constraints.
+- **Search Depth:** Limited to two moves ahead due to computational constraints.
 - **Simplistic Evaluation:** Does not consider advanced positional play, control of the center, pawn structure, or other strategic elements.
-- **No Advanced Rules:** Does not implement castling, en passant, or promotion choices other than queen.
 
 ## Project Structure
 
@@ -111,21 +110,6 @@ The evaluation function calculates a score based on the material balance:
 - **chess_ai.py:** Implements the AI opponent using the Minimax algorithm with alpha-beta pruning.
 - **images/:** Contains images used in the README.
 
-## Screenshots
-
-### Game Start
-
-*Description:* The initial state of the game when you first start the application.
-
-### In-Game Action
-
-*Description:* A snapshot during gameplay, showing possible moves highlighted.
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
-
-## Acknowledgments
 
 Special thanks to the open-source community for providing inspiration and resources.
 
