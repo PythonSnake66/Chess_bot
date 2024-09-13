@@ -3,8 +3,8 @@
 A simple chess game with an AI opponent implemented in Python. The AI uses the Minimax algorithm with alpha-beta pruning to decide its moves. This project demonstrates fundamental concepts in game development, artificial intelligence algorithms, and GUI programming.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="pic1.png" alt="Game Start" width="45%" />
-  <img src="pic2.png" alt="In-Game Action" width="45%" />
+  <img src="pic1.png" alt="Game Start" width="45%" style="margin-right: 10px;" />
+  <img src="pic2.png" alt="In-Game Action" width="45%" style="margin-left: 10px;" />
 </div>
 
 ## Table of Contents
@@ -114,10 +114,3 @@ The evaluation function calculates a score based on the material balance:
 - **chess_engine.py:** Contains the game logic, rules, and state management.
 - **chess_ai.py:** Implements the AI opponent using the Minimax algorithm with alpha-beta pruning.
 - **images/:** Contains images used in the README.
-
-
-Special thanks to the open-source community for providing inspiration and resources.
-
-## Contact
-
-For any questions or suggestions, feel free to contact [your email](mailto:youremail@example.com).
