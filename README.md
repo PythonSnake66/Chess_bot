@@ -18,10 +18,6 @@ A simple chess game with an AI opponent implemented in Python. The AI uses the M
 - [How to Play](#how-to-play)
 - [Algorithm Description](#algorithm-description)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
 
 ## Features
 
