@@ -42,9 +42,9 @@ Navigate to the project directory and run the main script:
 1. Open your terminal or command prompt.
 2. Navigate to the directory where the files were extracted.
 3. Run the script `chess_ui.py` using Python.
-
+   
 ## How to Play
-
+# Upon running the script, a window will appear displaying the chessboard.
 1. **Select a Piece:** Click on one of your pieces (white pieces). The selected piece will be highlighted, and all possible moves will be indicated.
 2. **Make a Move:** Click on one of the highlighted squares to move the selected piece there.
 3. **AI's Turn:** After you make a move, the AI will calculate and make its move automatically.
