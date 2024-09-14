@@ -112,4 +112,3 @@ The evaluation function calculates a score based on the material balance:
 - **chess_ui.py:** The main script that runs the game and handles the graphical user interface.
 - **chess_engine.py:** Contains the game logic, rules, and state management.
 - **chess_ai.py:** Implements the AI opponent using the Minimax algorithm with alpha-beta pruning.
-- **images/:** Contains images used in the README.
